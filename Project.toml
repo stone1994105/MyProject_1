@@ -1,0 +1,11 @@
+name = "MyProject_1"
+uuid = "a17e2cb0-d3cc-11e8-1a65-afcfcfc3a081"
+authors = ["Tianyu Shi <andrewtyrael@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
+Dates = "ade2ca70-3891-5945-98fb-dc099432e06a"
+Plots = "91a5bcdd-55d7-5caf-9e0b-520d859cae80"
+StatsBase = "2913bbd2-ae8a-5f71-8c99-4fb6c76f3a91"
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
