@@ -4,3 +4,6 @@ This is a tiny project for the computational physics course Fall 2018 at the Per
 In this project, I investigate an example csv file that contains the bikeshare data of a city using "DataFrames.jl", and do some basic analysis.
 
 Some useful references: https://juliadata.github.io/DataFrames.jl/stable/, https://en.wikibooks.org/wiki/Introducing_Julia/DataFrames.
+
+
+[![Build Status](https://travis-ci.com/stone1994105/MyProject_1.svg?branch=master)](https://travis-ci.com/stone1994105/MyProject_1)
